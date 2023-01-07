@@ -17,7 +17,7 @@
         "health": 570,
         "armor": 4,
 	"range": 120,
-        "engineOffset": 5.5,
+        "engineOffset": 8,
 		"TargetAir": true,
         "commandLimit": 8,
         "circleTarget": true,
